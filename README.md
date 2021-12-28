@@ -1,1 +1,8 @@
 "# S2021_CSIS_3860_DataVisualization" 
+
+- Junhyung (Mark) Kim
+
+ Nowadays, climate crises such as warming earth, abnormal temperatures are coming up as a main danger with our territory. Also, it is a fact that wildfires in Canada and the US West are getting worse as time goes on. We have been experiencing many wildfire accidents not only this month, but also the ordinary months that we were thinking of as safe days from wildfire. So, it was enough that I became curious about changes in wildfire history and decided it as a main topic for my analysis project.
+ For this analysis, I chose three main datasets for analysis with visualizations. Area data of Canadian province territories, number of fires by cause, and information about burned area by province and year. First dataset was necessary to represent the total area of Canada by provinces, second and third datasets were essential to analyze how many fires came out and how large an area was burned. Fortunately, I found those three datasets in Open Government (Government of Canada), and combined them to use as a main dataset for this project. 
+
+  Furthermore, I chose ‘Tableau’ as a main visualization tool for this project because I thought this tool has enough functions to implement things that I want to represent. For the analysis of this project, I connected each different dataset (joining), drew different types of charts, and analyzed future forecasting with accumulated data. Also, since the most important thing was how this data report can be shown as concise and readable as possible, I decided that the Tableau’s dashboard feature was the best method for it.
